@@ -1,5 +1,5 @@
 title: "Rumeysa Hanife Kars"
-author: "Rumeysa Hanife Karsr"
+author: "Rumeysa Hanife Kars"
 description: "Rumeysa Hanife Kars's Personal Web Site"
 permalink: /:title/
 lang: "en"
@@ -16,9 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "article.pdf", title: Publications}
-  - {file: "CV_RHK.pdf", title: CV}
-  - {file: "README.md", title: About me}
+  - {file: "article.pdf", title: "Publications"}
+  - {file: "CV_RHK.pdf", title: "CV"}
+  - {file: "README.md", title: "About me"}
+  - {file: "blog.md", title: "Blog"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:hanifekars@gmail.com"}
